@@ -12,3 +12,4 @@ export interface ApiCountryDetails{
     flag: string;
     borders?:string[];
 }
+
